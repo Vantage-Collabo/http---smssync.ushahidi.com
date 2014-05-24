@@ -1,0 +1,2 @@
+http---smssync.ushahidi.com
+===========================
